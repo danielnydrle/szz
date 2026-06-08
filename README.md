@@ -46,7 +46,7 @@
     <tr><td>22</td><td><a href="./22.%20%C4%8Clen%C4%9Bn%C3%AD%20programu.md">Členění programu</a></td></tr>
     <tr><td>23</td><td><a href="./23.%20OOP.md">OOP</a></td></tr>
     <tr><td>24</td><td><a href="./24.%20Opera%C4%8Dn%C3%AD%20syst%C3%A9my.md">Operační systémy</a></td></tr>
-    <tr><td>25</td><td><a href="./25%20S%C3%ADt%C4%9B.md">Sítě</a></td><td rowspan="2">🌐 Počítačové sítě a Internet</td></tr>
+    <tr><td>25</td><td><a href="<./25. Sítě.md>">Sítě</a></td><td rowspan="2">🌐 Počítačové sítě a Internet</td></tr>
     <tr><td>26</td><td><a href="./26.%20Internet.md">Internet</a></td></tr>
     <tr><td>27</td><td><a href="./27.%20Rela%C4%8Dn%C3%AD%20DB%2C%20konceptu%C3%A1ln%C3%AD%20modelov%C3%A1n%C3%AD.md">Relační DB, konceptuální modelování</a></td><td rowspan="12">🗄️ Databázové systémy a Big Data</td></tr>
     <tr><td>28</td><td><a href="./28.%20Rela%C4%8Dn%C3%AD%20model%2C%20normalizace.md">Relační model, normalizace</a></td></tr>
